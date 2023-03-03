@@ -19,7 +19,7 @@ Hello! I'm Camilo Vanegas, a technology enthusiast and software developer. I'm p
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://www.facebook.com/238439100788912/photos/a.239054117394077/239068184059337/" width="512px"/>
+<img src="[https://www.facebook.com/238439100788912/photos/a.239054117394077/239068184059337/](https://scontent.fvvc3-1.fna.fbcdn.net/v/t1.6435-9/117574855_239068187392670_8692275708963904029_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeEk0we_tDYOhsXlSgO8aVsLZPXlkajRk75k9eWRqNGTvqefOxiLkaaFqQHunQqWLFV6WsIO4OQkQ50cCLmHblsh&_nc_ohc=aiGYILr9EekAX-yTzpS&_nc_ht=scontent.fvvc3-1.fna&oh=00_AfBbdcwpgDqH4p0gsRMxb1LuEoy8CUu7vc0V04-qOqIM3g&oe=64291C62)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hankot91&icon=6&color=11)](https://visitcount.itsvg.in)
