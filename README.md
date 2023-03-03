@@ -20,6 +20,9 @@ Hello! I'm Camilo Vanegas, a technology enthusiast and software developer. I'm p
 
 ### 😂 Random Dev Meme
 <img src="https://external-preview.redd.it/Pecwn_dLFUNF2t33AXsHUrsHu9DQ5Y9sfgyJ_Ltn8_Y.jpg?auto=webp&v=enabled&s=8fb99b5078a330628d80483cfd6b479e264bec38" width="512px"/>
+<video src="https://vm.tiktok.com/ZMYyK336v/" loop>
+  Tu navegador no soporta la etiqueta video.
+</video>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hankot91&icon=6&color=11)](https://visitcount.itsvg.in)
