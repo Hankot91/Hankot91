@@ -15,11 +15,13 @@ Hello! I'm Camilo Vanegas, a technology enthusiast and software developer. I'm p
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hankot91&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src="https://external-preview.redd.it/Pecwn_dLFUNF2t33AXsHUrsHu9DQ5Y9sfgyJ_Ltn8_Y.jpg?auto=webp&v=enabled&s=8fb99b5078a330628d80483cfd6b479e264bec38" width="512px"/>
+
+### 😂 
 <video src="https://www.tiktok.com/@patbubble/video/7097557183969201414?_r=1&_t=8aKW7n0LlHp" loop witdth="600px"> Your browser does not support the video </video>
 
 ---
